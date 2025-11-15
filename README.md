@@ -79,7 +79,7 @@ has_term( 'workshop', 'product_cat', $product->get_id() );
 ---
 ### 2. Adds Product Tab
 
-If the product meets the conditions, a new tab titled **گزارش (Report)** appears on the WooCommerce product page.
+If the product meets the conditions, a new tab titled **report** appears on the WooCommerce product page.
 
 ---
 
